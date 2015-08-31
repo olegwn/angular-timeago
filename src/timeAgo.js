@@ -86,6 +86,24 @@ angular.module('yaru22.angular-timeago', [
         years: '%d years',
         numbers: []
       },
+      'ru_RU': {
+        prefixAgo: null,
+        prefixFromNow: null,
+        suffixAgo: null,
+        suffixFromNow: null,
+        seconds: 'сейчас',
+        minute: '1м',
+        minutes: '%dм',
+        hour: '1ч',
+        hours: '%dч',
+        day: '1д',
+        days: '%dд',
+        month: '1 мес.',
+        months: '%d мес.',
+        year: '1г.',
+        years: '%dг.',
+        numbers: []
+      },
       'de_DE': {
         prefixAgo: 'vor',
         prefixFromNow: null,
@@ -330,6 +348,24 @@ angular.module('yaru22.angular-timeago', [
         months: '%d months',
         year: 'about a year',
         years: '%d years',
+        numbers: []
+      },
+      'ru_RU': {
+        prefixAgo: null,
+        prefixFromNow: null,
+        suffixAgo: 'назад',
+        suffixFromNow: null,
+        seconds: 'меньше минуты',
+        minute: 'около минуты',
+        minutes: '%d минут',
+        hour: 'около часа',
+        hours: 'около %d часов',
+        day: 'день',
+        days: '%d дней',
+        month: 'около месяца',
+        months: '%d месяцев',
+        year: 'около года',
+        years: '%dг.',
         numbers: []
       },
       'de_DE': {

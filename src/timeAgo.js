@@ -68,7 +68,7 @@ angular.module('yaru22.angular-timeago', [
         years: '%d anni',
         numbers: []
       },
-      'en_US': {
+      'en': {
         prefixAgo: null,
         prefixFromNow: null,
         suffixAgo: null,
@@ -86,7 +86,7 @@ angular.module('yaru22.angular-timeago', [
         years: '%d years',
         numbers: []
       },
-      'ru_RU': {
+      'ru': {
         prefixAgo: null,
         prefixFromNow: null,
         suffixAgo: null,
@@ -332,7 +332,7 @@ angular.module('yaru22.angular-timeago', [
         years: '%d anni',
         numbers: []
       },
-      'en_US': {
+      'en': {
         prefixAgo: null,
         prefixFromNow: null,
         suffixAgo: 'ago',
@@ -350,7 +350,7 @@ angular.module('yaru22.angular-timeago', [
         years: '%d years',
         numbers: []
       },
-      'ru_RU': {
+      'ru': {
         prefixAgo: null,
         prefixFromNow: null,
         suffixAgo: 'назад',
